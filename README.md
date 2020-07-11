@@ -1,5 +1,5 @@
 <h1 align="center">
-  Challenge GoStack Transactions 🚀
+  Challenge GoStack Finances 🚀
   <p align="center">
   <img src="https://img.shields.io/badge/tech-backend-lightgrey" />
 
@@ -53,7 +53,7 @@ Essa será uma aplicação que deve armazenar transações financeiras de entrad
 - **Passo** 3️⃣ : Acessar a pasta do projeto e executar os seguintes comandos 👇🏽
 ```bash
   # Navegando até a pasta do projeto
-  $ cd gostack-transactions-typeorm
+  $ cd gostack-finances-nodejs
 
   # Criando uma visão no Docker para criação do Banco de Dados
   $ docker run --name <nome-da-visao> -e POSTGRES_PASSWORD=<password> -p <porta:porta> -d postgres
